@@ -4,9 +4,9 @@
 
 ### Intention of this Repository
 
-This Repository has been made to summit the homework assignment for my Data Science Bootcamp at Northwestern University
+This Repository has been made to summit the homework assignment for my Data Science Bootcamp at Northwestern University.
 
-Pandas
+Matplotlib
 
 Student: Jorge Daniel Atuesta
 
@@ -58,8 +58,6 @@ After the rigorous data analysis of the data provided by the pharmaceutical, the
 ---
 
 ## References
-
-
 
 Eiden, S. (2021, March 19). Study Group - Matplotlib. (J. D. Atuesta, Interviewer)
 
