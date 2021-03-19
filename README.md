@@ -50,12 +50,25 @@ Additionally, I created a summary report of the results found from the study.
 After the rigorous data analysis of the data provided by the pharmaceutical, the following conclusions were reached:
 
 * In general, the mice's weight is positively correlated with the tumor volume. This means that the more prominent (mm3) the tumor, the heavier the mouse(g).
-
-* Looking at the drug regimen Capomulin, we can see its effects with the task of volume reduction of the tumor. As we can see in the analysis, the tumor volume size decreases after the time points measured in rats under the treatment of Capomulin.
+* Looking at the drug regimen Capomulin, we can see its effects with the task of volume reduction of the tumor. As shown in the analysis, the tumor volume size decreases after the time points measured in mice under the treatment of Capomulin.
 * The data collected has a fair percentage of both 'sex' male and female mice.
 * The only drug regimen that has a potential outlier is Infubinol.
 * Based on the analysis, it's fair to say that both drug treatments of Capomunil and Ramicane are effective in the process of tumor volume reduction at the end of the treatment.
 
+---
+
+## References
+
+
+
+Eiden, S. (2021, March 19). Study Group - Matplotlib. (J. D. Atuesta, Interviewer)
+
+Fernandes, J. (2017, November 3). Pandas Essential Training. Retrieved from LinkedIn Learning:
+https://www.linkedin.com/learning/pandas-essential-training/welcome?u=38416468
+
+Littel, T. (2021, March 18). Tutoring sesion on Python and Matplotlib. (J. D. Atuesta, Interviewer)
+
+**Please note: I am new to .md files and I cant seem to indent the reference following the APA guidelines**
 
 ## Assignment instructions provided by Northwestern Data Science Bootcamp
 
