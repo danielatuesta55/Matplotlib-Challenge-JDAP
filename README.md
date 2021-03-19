@@ -1,11 +1,67 @@
 # Matplotlib-Challenge-JDAP
 
-Matplotlib Homework - The Power of Plots
+## Matplotlib Homework - The Power of Plots
+
+### Intention of this Repository
+
+This Repository has been made to summit the homework assignment for my Data Science Bootcamp at Northwestern University
+
+Pandas
+
+Student: Jorge Daniel Atuesta
+
+March, 2021
+
+---
+
+### Inside this repository
+
+The reader will encounter my solution to the homework assignment Matplotlib-challange. The repository is organized in folders and a README.md file (which you are currently reading). Please take the time to navigate to the analysis portion of the excercise, as I will share key data trends observed in the process.
+
+Here is the list of the folders and its contents so you can navigate through them:
+
+1. Images folder:
+   * This folder contains all the images used in this README.md file. *You can skip this folder.*
+2. Pymaceuticals folder- This folder contains the following folders and files within:
+   * .ipynb_checkpoints: **Please ignore the content within this folder**
+   * data: This folder contains the data CSV files used for this excercise
+   * pymaceuticals_starter.ipynb : This is where you will be able to find my code and solution to the excercise. Please make sure you visit this folder. I reccomend you download the file to your computer as sometimes Github has issues when reading this type of files.
+3. README.md
+   * As mentioned before this is the current file you are reading.
 
 
-# Matplotlib Homework - The Power of Plots
+I hope you find my work to not only be complete but displaying all the knowledge learned throughout this portion of the Data Science Bootcamp at Northwestern University.
 
-## Background
+---
+
+## Pymaceuticals Excercise
+
+### Project's aim
+
+Using Jupyter Lab, Pandas, and Matplotlib, I had to generate all of the tables and figures needed for a clinical trial's technical report. The clinical trial tested different drug regimens intending to reduce tumor size after the intervention and see each drug's effectiveness at the end of treatment. 
+
+Additionally, I created a summary report of the results found from the study.
+
+---
+
+### Project Analysis
+
+
+After the rigorous data analysis of the data provided by the pharmaceutical, the following conclusions were reached:
+
+* In general, the mice's weight is positively correlated with the tumor volume. This means that the more prominent (mm3) the tumor, the heavier the mouse(g).
+
+* Looking at the drug regimen Capomulin, we can see its effects with the task of volume reduction of the tumor. As we can see in the analysis, the tumor volume size decreases after the time points measured in rats under the treatment of Capomulin.
+* The data collected has a fair percentage of both 'sex' male and female mice.
+* The only drug regimen that has a potential outlier is Infubinol.
+* Based on the analysis, it's fair to say that both drug treatments of Capomunil and Ramicane are effective in the process of tumor volume reduction at the end of the treatment.
+
+
+## Assignment instructions provided by Northwestern Data Science Bootcamp
+
+### Matplotlib Homework - The Power of Plots
+
+#### Background
 
 What good is data without a good plot to tell the story?
 
@@ -17,7 +73,7 @@ While your data companions rushed off to jobs in finance and government, you rem
 
 As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
 
-## Instructions
+#### Instructions
 
 Your tasks are to do the following:
 
@@ -44,7 +100,7 @@ Here are some final considerations:
 * You must use proper labeling of your plots, to include properties such as: plot titles, axis labels, legend labels, _x_-axis and _y_-axis limits, etc.
 * See the [starter workbook](Pymaceuticals/pymaceuticals_starter.ipynb) for help on what modules to import and expected format of the notebook.
 
-## Hints and Considerations
+#### Hints and Considerations
 
 * Be warned: These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
 * You have been provided a starter notebook. Use the code comments as a reminder of steps to follow as you complete the assignment.
@@ -60,6 +116,6 @@ Here are some final considerations:
   Again, don't let the magnitude of a programming task scare you off. Ultimately, every programming problem boils down to a handful of bite-sized tasks.
 * Get help when you need it! There is never any shame in asking. But, as always, ask a _specific_ question. You'll never get a great answer to "I'm lost."
 
-### Copyright
+##### Copyright
 
 Trilogy Education Services © 2020. All Rights Reserved.
